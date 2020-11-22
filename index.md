@@ -1,6 +1,6 @@
 ## Witam na mojej stronie!!!
 
-Mój pseudomin to kuballa i jest to strona utworzona na potrzeby projektu z przedmiotu Narzędzia Informatyczne. Mój zespół projektowy nazywa się "Pomocnik Studenta"
+Mój pseudomin to ```kuballa``` i jest to strona utworzona na potrzeby projektu z przedmiotu Narzędzia Informatyczne. Mój zespół projektowy nazywa się "Pomocnik Studenta"
 
 ### Markdown
 
