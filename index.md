@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Witam na mojej stronie!!!
 
-You can use the [editor on GitHub](https://github.com/kuballa/kuballa.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Mój pseudomin to kuballa i jest to strona utworzona na potrzeby projektu z przedmiotu Narzędzia Informatyczne. Mój zespół projektowy nazywa się "Pomocnik Studenta"
 
 ### Markdown
 
