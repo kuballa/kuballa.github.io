@@ -9,6 +9,8 @@ Mój pseudomin to ```kuballa``` i jest to strona utworzona na potrzeby projektu 
 * 💬 Na razie (prosze) o nic nie pytaj
 * 📫 Kontakt do mnie: jziomek669@gmail.com
 
+![menu](https://github.com/AGH-Narzedzia-Informatyczne/Pomocnik-Studenta-Test/blob/main/menu.png?raw=true)
+
 ```*beep```
 
 
