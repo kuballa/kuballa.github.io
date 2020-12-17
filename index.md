@@ -8,3 +8,7 @@ Mój pseudomin to ```kuballa``` i jest to strona utworzona na potrzeby projektu 
 * 🤔 Szukam pomocy w obsłudze biblioteki kiv
 * 💬 Na razie (prosze) o nic nie pytaj
 * 📫 Kontakt do mnie: jziomek669@gmail.com
+
+```*beep```
+
+
